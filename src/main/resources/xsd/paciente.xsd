@@ -1,8 +1,8 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 
-           xmlns:tns="cibertec.edu.pe/ws/objects"
+           xmlns:tns="http://www.cibertec.edu.pe/ws/objects"
 
-           targetNamespace="cibertec.edu.pe/ws/objects"
+           targetNamespace="http://www.cibertec.edu.pe/ws/objects"
 
            elementFormDefault="qualified" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
